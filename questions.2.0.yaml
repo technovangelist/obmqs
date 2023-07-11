@@ -1,0 +1,131 @@
+version: 2.0
+modeltypes:
+  - type: chat
+    prompts:
+      - prompt: What are your thoughts on the latest scientific discovery regarding black holes?
+        keywords: science, recent
+      - prompt: Tell me a story about a magical adventure in a far-off land.
+        keywords: creativity
+      - prompt: What is your opinion on the impact of social media on society?
+        keywords: online
+      - prompt: Can you explain the concept of artificial intelligence in simple terms?
+        keywords: ai
+      - prompt: What is your favorite movie, and why do you like it?
+        keywords: movies
+      - prompt: How do you deal with stress and stay motivated?
+        keywords:
+      - prompt: Tell me a joke that never fails to make people laugh.
+        keywords:
+      - prompt: What advice would you give someone starting a new business?
+        keywords:
+      - prompt: What is the most memorable book you've ever read, and why?
+        keywords:
+      - prompt: What do you think about the future of renewable energy?
+        keywords:
+      - prompt: Tell me about your favorite travel destination and why it holds a special place in your heart.
+        keywords:
+      - prompt: What are some tips for maintaining a healthy work-life balance?
+        keywords:
+      - prompt: Share your perspective on the impact of technology on modern relationships.
+        keywords:
+      - prompt: Can you recommend some strategies for effective time management?
+        keywords:
+      - prompt: Tell me about a fascinating historical event that is often overlooked in textbooks.
+        keywords:
+  - type: instruct
+    prompts:
+      - prompt: Write a step-by-step guide on how to bake a chocolate cake from scratch.
+        keywords: cooking, recipe
+      - prompt: Provide instructions for assembling a bookshelf from a flat-pack kit.
+        keywords:
+      - prompt: Write a tutorial on how to create a basic website using HTML and CSS.
+        keywords:
+      - prompt: Give directions for tying a specific type of knot, like the bowline knot.
+        keywords:
+      - prompt: Provide a guide on how to perform a basic yoga routine for beginners.
+        keywords:
+      - prompt: Write a set of instructions for troubleshooting common computer networking issues.
+        keywords:
+      - prompt: Give step-by-step directions for changing a flat tire on a car.
+        keywords:
+      - prompt: Provide instructions for setting up a home Wi-Fi network and connecting devices.
+        keywords:
+      - prompt: Write a tutorial on how to knit a scarf using basic knitting techniques.
+        keywords:
+      - prompt: Give a guide on assembling and programming a basic robotics kit for kids.
+        keywords:
+      - prompt: Provide instructions for performing CPR on an adult in an emergency situation.
+        keywords:
+      - prompt: Write a tutorial on how to create a spreadsheet and perform basic data analysis.
+        keywords:
+      - prompt: Give step-by-step directions for preparing a healthy and balanced meal.
+        keywords:
+      - prompt: Provide instructions for conducting a science experiment to test the effects of light on plant growth.
+        keywords:
+      - prompt: Write a guide on how to sew a button onto a piece of clothing.
+        keywords:
+  - type: completion
+    prompts:
+      - prompt: In a world where time travel is possible, a scientist invents a device that allows people to visit any historical event. One day, a young woman decides to travel back in time to...
+        keywords:
+      - prompt: The sun set behind the mountains, casting a warm glow over the valley. As the night fell, a mysterious figure emerged from the shadows, holding a...
+        keywords:
+      - prompt: Write a poem that captures the beauty of a serene beach at sunrise, with its gentle waves, golden sands, and the soft whispers of the breeze...
+        keywords:
+      - prompt: In the year 2050, humanity has colonized Mars. A group of scientists embarks on a groundbreaking mission to explore a hidden underground cave and discovers...
+        keywords:
+      - prompt: She gazed at the old photograph, a nostalgic smile on her face. It was a snapshot from her childhood, capturing a moment of...
+        keywords:
+      - prompt: The abandoned mansion at the end of the street had long been rumored to be haunted. One stormy night, a group of friends gathered the courage to enter...
+        keywords:
+      - prompt: As the door creaked open, a beam of light illuminated the hidden chamber. Inside, they discovered an ancient artifact that held the power to...
+        keywords:
+      - prompt: In a world where music no longer exists, a young prodigy sets out on a quest to revive the lost art form and inspire...
+        keywords:
+      - prompt: Write a short story that begins with the sentence 'The old oak tree in the park had witnessed many secrets over the years.'
+        keywords:
+      - prompt: In a small coastal town, an eccentric inventor creates a machine that can control the weather. However, unforeseen consequences arise when...
+        keywords:
+      - prompt: The enchanted forest was said to grant one wish to anyone who ventured deep into its heart. A curious adventurer decides to test the legends and encounters...
+        keywords:
+      - prompt: In the bustling city streets, a street performer discovers a magical instrument that possesses the ability to make people...
+        keywords:
+      - prompt: In a futuristic society where emotions are controlled, a rebel group fights for the freedom to feel. As their movement gains momentum, they realize...
+        keywords:
+      - prompt: A renowned detective is tasked with solving a perplexing murder case. The only clue left behind is a cryptic message that reads...
+        keywords:
+      - prompt: The world is on the brink of an environmental catastrophe, and a group of unlikely heroes emerges to embark on a mission to restore balance to nature by...
+        keywords:
+
+  - type: question-answer
+    prompts:
+      - prompt: What is the capital of Brazil?
+        keywords:
+      - prompt: When was the first moon landing?
+        keywords:
+      - prompt: Who is the author of 'Pride and Prejudice'?
+        keywords:
+      - prompt: What is the chemical symbol for gold?
+        keywords:
+      - prompt: Who painted the Mona Lisa?
+        keywords:
+      - prompt: What is the largest planet in our solar system?
+        keywords:
+      - prompt: When did World War II end?
+        keywords:
+      - prompt: What is the official language of Japan?
+        keywords:
+      - prompt: Who discovered the theory of relativity?
+        keywords:
+      - prompt: What is the current population of India?
+        keywords:
+      - prompt: What is the formula for calculating the area of a triangle?
+        keywords:
+      - prompt: Who was the first female Prime Minister of the United Kingdom?
+        keywords:
+      - prompt: What are the primary colors?
+        keywords:
+      - prompt: Who wrote the play 'Romeo and Juliet'?
+        keywords:
+      - prompt: What is the main component of air?
+        keywords:
